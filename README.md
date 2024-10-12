@@ -1,13 +1,3 @@
-<!--
- * @Author: Y.G
- * @Date: 2024-10-11 11:34:35
- * @LastEditTime: 2024-10-11 17:48:48
- * @LastEditors: your name
- * @Description: 
- * @FilePath: \MiKaPo-main\README.md
- * this is a custom string
--->
-
 ## Project Setup
 
 ```sh
