@@ -1,8 +1,6 @@
 import { Avatar, IconButton } from "@mui/material"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faGithub } from "@fortawesome/free-brands-svg-icons"
-import { Download } from "@mui/icons-material"
-import img from "/pay.png"
 
 function Header({ fps }: { fps: number }): JSX.Element {
   return (
